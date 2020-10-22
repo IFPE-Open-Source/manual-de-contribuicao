@@ -7,3 +7,6 @@ Novo neste mundo do Github e Open Source? Todos estamos aprendendo! [Veja este t
 Para fazer parte da nossa comunidade, basta nos contatar!
 
 Você pode criar um repositório na nossa organização ou transferir o seu repositório do GitHub!
+
+***
+Made with ♥ by IFPE Open Source! :sandwich:
