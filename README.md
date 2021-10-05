@@ -1,9 +1,11 @@
 # Como contribuir
 Ficamos muito felizes de ter você conosco neste projeto! Muito obrigado por tirar um tempo para ler esse documento antes de mais nada!
 
+Existem diversas formas de contribuir em projetos open source. Seja informando um problema, sugerindo uma mudança, construindo a documentação ou até mesmo alterando o código.
+
 Novo neste mundo do Github e Open Source? Todos estamos aprendendo! [Veja este tutorial](https://opensource.guide/pt/how-to-contribute/#como-submeter-uma-contribui%C3%A7%C3%A3o) para entender melhor como contribuir em um projeto!
 
-Para fazer parte da nossa comunidade, basta nos contatar!
+
 # Adicionar um projeto
 Tem interesse em criar um projeto ou gostaria de adicionar um ao IFPE Open Source?
 
