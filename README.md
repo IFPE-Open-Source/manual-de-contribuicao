@@ -34,5 +34,8 @@ Você pode criar um repositório na nossa organização ou transferir o seu repo
 
 Você poderá continuar mantendo o seu projeto.
 
+<br />
+Estamos ansiosos por sua contribuição!
+
 ***
 Made with ♥ by IFPE Open Source! :sandwich:
